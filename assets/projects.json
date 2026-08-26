@@ -1,0 +1,21 @@
+{
+  "_comment": "Featured repos, in README order. Star/fork/language come live from the API on every run; the description here overrides the repo's GitHub description (all four of these currently have none set). Setting them on GitHub too is worth doing - it helps anyone browsing your repo list.",
+  "projects": [
+    {
+      "repo": "Odhra",
+      "description": "An highly advanced E-Commerce website with 100+ features and it includes admin,customer,seller,wholeseler panel which acts like a multi-vendor e-commerce website."
+    },
+    {
+      "repo": "MapStack",
+      "description": "An AI-powered web app built for business. It instantly create, customize, and deploy custom website by extracting business information from google map listing along with social media intigration for automated marketing."
+    },
+    {
+      "repo": "Socrates",
+      "description": "Learn by teaching. Explain a concept to the AI, get caught on the parts you only half-understand, and prove you actually know it."
+    },
+    {
+      "repo": "KindredConnect",
+      "description": "Describe what you want to build and Kinder Connect handles the code."
+    }
+  ]
+}
